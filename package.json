@@ -13,14 +13,14 @@
         "test": "grunt test"
     },
     "dependencies": {
-        "rsyncwrapper": "~0.0.7"
+        "rsyncwrapper": "~2.0.1"
     },
     "devDependencies": {
-        "grunt": "~0.3.17",
-        "grunt-contrib-clean": "~0.3.0",
-        "vows": "~0.6.0",
-        "grunt-vows": "~0.2.0",
-        "grunt-shell": "~0.1.0"
+        "grunt": "~1.0.1",
+        "grunt-contrib-clean": "~1.0.0",
+        "vows": "~0.8.1",
+        "grunt-vows": "~0.4.2",
+        "grunt-shell": "~2.1.0"
     },
     "keywords": [
         "rsync",
